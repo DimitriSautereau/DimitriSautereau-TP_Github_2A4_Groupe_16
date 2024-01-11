@@ -15,11 +15,13 @@ main {
 }
 
 section {
+
+  background-color: #f0f0f0;
   margin-bottom: 30px;
   padding: 15px;
   border: 1px solid black;
+  border-style: dotted;
   border-radius: 20px;
-  background-color: #f0f0f0;
 }
 
 h2 {
